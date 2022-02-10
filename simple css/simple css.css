@@ -1,0 +1,68 @@
+body 
+{
+    background-color: cornflowerblue;
+   padding-left: 40%;
+   padding-top: 10%;
+}
+.all
+{
+    
+    background-color: white;
+   width: 310px;
+   height: 340px;
+   border-top-left-radius: 2em;
+   border-bottom-right-radius: 2em;
+    
+}
+a{
+    color:cornflowerblue;
+    cursor: pointer;
+   
+}
+header
+{
+    color:cornflowerblue;
+     padding: 1.5em; 
+     padding-bottom: 0.5em;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
+}
+.button
+{
+    padding:2px 115px;
+    border-color:cornflowerblue;
+    background-color:cornflowerblue;
+    margin: 0.5em;
+    border-radius: 0.5em;
+    cursor: pointer;
+}
+form
+{
+     padding: 2px; 
+    
+}
+input
+{ 
+   margin-bottom: 0.5em;
+   margin-top: 0.5em;
+   margin-left: 0.5em;
+   padding-right: 3.5em;
+   padding-top: 0.5em;
+   border-left-style:hidden;
+   border-right-style:hidden;
+   border-top-style:hidden;
+   
+}
+label
+{
+    font-size: 14px;
+    
+
+}
+p
+{
+    text-align: center;
+    font-size: 17px;
+}
